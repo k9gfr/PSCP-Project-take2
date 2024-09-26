@@ -1,2 +1,4 @@
 def main():
-    สวัสดีค่ะหนูชื่อjohnny
+    #สวัสดีค่ะหนูชื่อjohnny
+    import random
+    
