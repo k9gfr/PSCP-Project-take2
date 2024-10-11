@@ -9,4 +9,8 @@ UTC_MINUS_7 = ["denver", "calgary", "ciudad juarez","canada", "alberta",
 , "cranbrook", "golden", "invermere", "northwest territories", "kitikmeot region",
 "lloydminster", "yukon", "baja california sur", "chihuahua", "nayarit", "sinaloa",
 "sonora", "kansas", "montana", "nebraska", "west wendover", "new mexico", "north dakota", "malheur country", "malheur", "south dakota", "texas", "utah", "wyoming"]
-UTC_MINUS_6 = []
+UTC_MINUS_6 = ["belize", "manitoba", "nunavut", "ontario", "saskatchewan",
+"chile", "easter island", "costa rica", "ecuador", "galápagos islands",
+"el salvador", "guatemala", "honduras", "mexico", "nicaragua", "alabama",
+"arkansas", "florida", "illinois", "indiana", "iowa", "kansas", "kentucky",
+"louisiana", "michigan", "minnesota", "mississippi", "missouri", "nebraska", "north dakota", "oklahoma", "south dakota", "tennessee", "texas", "wisconsin"]
