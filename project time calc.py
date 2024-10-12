@@ -14,3 +14,9 @@ UTC_MINUS_6 = ["belize", "manitoba", "nunavut", "ontario", "saskatchewan",
 "el salvador", "guatemala", "honduras", "mexico", "nicaragua", "alabama",
 "arkansas", "florida", "illinois", "indiana", "iowa", "kansas", "kentucky",
 "louisiana", "michigan", "minnesota", "mississippi", "missouri", "nebraska", "north dakota", "oklahoma", "south dakota", "tennessee", "texas", "wisconsin"]
+UTC_MINUS_5 = ["New York, NY", "Washington, D.C.", "Atlanta, GA", "Miami, FL",
+"Philadelphia, PA", "Boston, MA", "Charlotte, NC", "Cleveland, OH",
+"Indianapolis, IN", "Nashville, TN", "Detroit, MI",
+"Toronto, ON", "Ottawa, ON", "Montreal, QC", "Quebec City, QC",
+"Hamilton, ON", "Kitchener, ON", "Havana, Cuba", "Kingston, Jamaica", "Port-au-Prince, Haiti", "Cayman Islands", "Turks and Caicos Islands",
+ "Bogotá, Colombia", "Lima, Peru", "Quito, Ecuador","Nassau, Bahamas", "Manaus, Brazil", "Acre, Brazil","Santa Cruz, Bolivia"]
