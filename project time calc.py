@@ -20,3 +20,4 @@ UTC_MINUS_5 = ["New York, NY", "Washington, D.C.", "Atlanta, GA", "Miami, FL",
 "Toronto, ON", "Ottawa, ON", "Montreal, QC", "Quebec City, QC",
 "Hamilton, ON", "Kitchener, ON", "Havana, Cuba", "Kingston, Jamaica", "Port-au-Prince, Haiti", "Cayman Islands", "Turks and Caicos Islands",
  "Bogotá, Colombia", "Lima, Peru", "Quito, Ecuador","Nassau, Bahamas", "Manaus, Brazil", "Acre, Brazil","Santa Cruz, Bolivia"]
+UTC_MINUS_4 = [""]
