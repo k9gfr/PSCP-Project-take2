@@ -22,4 +22,6 @@ UTC_MINUS_5 = ["new york, ny", "washington, d.c.", "atlanta, ga", "miami, fl",
 "bogota, colombia", "lima, peru", "quito, ecuador", "nassau, bahamas", "manaus, brazil", "acre, brazil", "santa cruz, bolivia"]
 UTC_MINUS_4 = ["santiago", "santo domingo", "manaus", "caracas", "la paz", 
 "halifax", "Antigua and Barbuda", "Barbados", "Bolivia", "Mato Grosso, Brazil", "Mato Grosso do Sul, Brazil", "Rondônia, Brazil", "Roraima, Brazil"
-"New Brunswick, Canada", "Newfoundland and Labrador, Canada", ""]
+"New Brunswick, Canada", "Labrador, Canada", ""]
+UTC_MINUS_3_30 = ["St. John's, Canada", "Newfoundland, Canada", "Labrador between L'Anse-au-Clair and Norman Bay, Canada"]
+UTC_MINUS_3 = ["São Paulo, Brazil", "Buenos Aires, Argentina"]
