@@ -25,5 +25,6 @@ UTC_MINUS_4 = ["santiago", "santo domingo", "manaus", "caracas", "la paz",
 "new brunswick, canada", "labrador, canada", "nova scotia", "price edward island", "quebec", "chile", "denmark", "greenland", "pituffik", "dominica", "dominican republic",
 "guadelope", "martinique", "saint barthelemy", "sain martin", "grenada", "guyana", "aruba", "caracao", "bonaire", "saba", "sint eustatius", "paraguay", "saint kitts and nevis", "saint lucia", "saint vincent and the grenadines",
 "trinidad and tobago", "anguilla", "bermuda", "british virgin island", "montserrat","puerto rico", "u.s. virgin island", "venezuela"]
-UTC_MINUS_3_30 = ["St. John's, Canada", "Newfoundland, Canada", "Labrador between L'Anse-au-Clair and Norman Bay, Canada"]
-UTC_MINUS_3 = ["São Paulo, Brazil", "Buenos Aires, Argentina"]
+UTC_MINUS_3_30 = ["st. john's, canada", "newfoundland, canada", "labrador between l'anse-au-clair and norman bay, canada"]
+UTC_MINUS_3 = ["sao paulo, brazil", "buenos aires, argentina"]
+UTC_MINUS_2 = ["fernando de noronha, brazil"]
