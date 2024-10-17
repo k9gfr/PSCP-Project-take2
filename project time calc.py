@@ -29,4 +29,10 @@ UTC_MINUS_3_30 = ["st. john's, canada", "newfoundland, canada", "labrador betwee
 UTC_MINUS_3 = ["sao paulo, brazil", "buenos aires, argentina"]
 UTC_MINUS_2 = ["fernando de noronha, brazil", "greenland, denmark","south georgia and the south sandwich islands, united kingdom"]
 UTC_MINUS_1 = ["cape vede", "azores inland, portugal"]
-UTC_PLUS_0 = ["burkina faso", "cote d'lvoire", "faroe island, denmark", ""]
+UTC_PLUS_0 = ["burkina faso", "cote d'lvoire", "faroe island, denmark", "danmarkshavn, greenland", "gambia", "ghana", "guinea", "guinea-bissau", "iceland", "ireland", "liberia", "mali", "mauritania", "portugal", "sao tome and principe", "canary island, spain",
+"senegal", "sierra leone", "togo", "guernsey, united kingdom", "isle of man, united kingdom", "jersey and saint helena, united kingdom", "ascension and tristan da cunhu, united kingdom"]
+UTC_PLUS_1 = ["albania", "algeria", "andorra", "angola", "austria", "belgium", "benin", "bosnia and herzegovina", "cameroon", "central african replublic", "chad", "congo-brazzaville", "Kinshasa,democratic replublic of the congo", "cratia",
+"czech replublic", "denmark", "equatorial guinea", "france(metropolitan)", "gabon", "germany", "hungary", "italy", "kosovo", "liechtenstein", "luxembourg", "malta", "manaco", "montenegro", "morocco", "netherland", "niger", "nigeria", "north macedonia", "norway", "poland",
+"sanmarino", "serbia", "slovakia", "slovania", "balearic island, spain", "ceuta, spain", "melilla, spain", "canary island, spain", "sweden", "switzerland", "tunisia", "gibraltar, united kingdom", "vatican city", "western sahara"]
+UTC_PLUS_2 = ["botswana", "bulgaria", "burundi", "cyprus", "lubumbashi, democratic republic of the congo", "mbuji-maya, democratic republic of the congo", "egypt", "estonia", "eswatini", "finland", "greece", "israel", "latvia", "lebanon", "lesotho", "lithuania", "libya", "malawi", "moldova",
+"mozambique", "namibia", "palestine", "romania", "russia", "rwanda", "south africa", "sudan", "idlib, syria", "aleppo, syria", "ukrain", "akrotiri and dhekelia, united kingdom", "zambia", "zimbabwe"]
