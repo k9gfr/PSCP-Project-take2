@@ -21,7 +21,9 @@ UTC_MINUS_5 = ["new york, ny", "washington, d.c.", "atlanta, ga", "miami, fl",
 "hamilton, on", "kitchener, on", "havana, cuba", "kingston, jamaica", "port-au-prince, haiti", "cayman islands", "turks and caicos islands",
 "bogota, colombia", "lima, peru", "quito, ecuador", "nassau, bahamas", "manaus, brazil", "acre, brazil", "santa cruz, bolivia"]
 UTC_MINUS_4 = ["santiago", "santo domingo", "manaus", "caracas", "la paz", 
-"halifax", "Antigua and Barbuda", "Barbados", "Bolivia", "Mato Grosso, Brazil", "Mato Grosso do Sul, Brazil", "Rondônia, Brazil", "Roraima, Brazil"
-"New Brunswick, Canada", "Labrador, Canada", ""]
+"halifax", "antigua and barbuda", "barbados", "bolivia", "mato grosso, brazil", "mato grosso do sul, brazil", "rondonia, brazil", "boraima, brazil"
+"new brunswick, canada", "labrador, canada", "nova scotia", "price edward island", "quebec", "chile", "denmark", "greenland", "pituffik", "dominica", "dominican republic",
+"guadelope", "martinique", "saint barthelemy", "sain martin", "grenada", "guyana", "aruba", "caracao", "bonaire", "saba", "sint eustatius", "paraguay", "saint kitts and nevis", "saint lucia", "saint vincent and the grenadines",
+"trinidad and tobago", "anguilla", "bermuda", "british virgin island", "montserrat","puerto rico", "u.s. virgin island", "venezuela"]
 UTC_MINUS_3_30 = ["St. John's, Canada", "Newfoundland, Canada", "Labrador between L'Anse-au-Clair and Norman Bay, Canada"]
 UTC_MINUS_3 = ["São Paulo, Brazil", "Buenos Aires, Argentina"]
