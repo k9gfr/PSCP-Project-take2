@@ -27,4 +27,6 @@ UTC_MINUS_4 = ["santiago", "santo domingo", "manaus", "caracas", "la paz",
 "trinidad and tobago", "anguilla", "bermuda", "british virgin island", "montserrat","puerto rico", "u.s. virgin island", "venezuela"]
 UTC_MINUS_3_30 = ["st. john's, canada", "newfoundland, canada", "labrador between l'anse-au-clair and norman bay, canada"]
 UTC_MINUS_3 = ["sao paulo, brazil", "buenos aires, argentina"]
-UTC_MINUS_2 = ["fernando de noronha, brazil"]
+UTC_MINUS_2 = ["fernando de noronha, brazil", "greenland, denmark","south georgia and the south sandwich islands, united kingdom"]
+UTC_MINUS_1 = ["cape vede", "azores inland, portugal"]
+UTC_PLUS_0 = ["burkina faso", "cote d'lvoire", "faroe island, denmark", ""]
