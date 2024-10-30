@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Searchable Dropdown</title>
+    <title>Time calculator</title>
     <style>
         body {
             display: flex;
@@ -15,11 +15,19 @@
             text-align: center;
             margin-top: 20px;
         }
+        #output {
+            margin-top: 20px;
+            font-size: 1.2em;
+            color: #333;
+        }
+        #output.error {
+            color: red;
+        }
     </style>
 </head>
 <body>
 
-    <h1>Choose an Option</h1>
+    <h1>Time calculator</h1>
     
     <label for="searchable">Choose an option:</label>
     <input list="options" id="searchable" name="searchable">
@@ -33,6 +41,29 @@
         <option value="Fig">
         <option value="Grapes">
     </datalist>
+
+    <button onclick="displayOutput()">Submit</button>
+
+    <div id="output"></div>
+
+    <script>
+        function displayOutput() {
+            const input = document.getElementById('searchable').value;
+            const options = Array.from(document.querySelectorAll('#options option')).map(option => option.value);
+            const outputDiv = document.getElementById('output');
+
+            if (!input) {
+                outputDiv.textContent = "You selected: None";
+                outputDiv.classList.remove('error');
+            } else if (!options.includes(input)) {
+                outputDiv.textContent = "Error: Please select a valid option from the list.";
+                outputDiv.classList.add('error');
+            } else {
+                outputDiv.textContent = `You selected: ${input}`;
+                outputDiv.classList.remove('error');
+            }
+        }
+    </script>
 
 </body>
 </html>
