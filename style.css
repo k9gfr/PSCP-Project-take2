@@ -5,14 +5,17 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: burlywood;
+    background-image: url("https://wanderfulplans.com/wp-content/uploads/2023/02/big-ben-westminster-bridge.jpg");
+    background-size: cover;
 }
 h1 {
     margin-top: 20px;
     font-family: Arial, Helvetica, sans-serif;
     color: #333;
     background-color: rgb(253, 133, 47);
-    border: 2px solid #111;
+    border: 3px solid #111;
     border-radius: 8px;
+    padding: 5px;
 }
 input {
     padding: 10px;
@@ -25,9 +28,10 @@ label, input, button{
 }
 label{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border: 2px solid #111;
+    border: 3px solid #111;
     border-radius: 4px;
     background-color: rgb(248, 175, 79);
+    padding: 5px;
 }
 button {
     align-items: center;
@@ -90,6 +94,10 @@ button:hover {
     margin-top: 20px;
     font-size: 1.2em;
     color: #333;
+    background-color: rgb(255, 209, 140);
+    border: 3px solid black;
+    border-radius: 8px;
+    padding: 5px;
 }
 #output.error {
     color: red;
